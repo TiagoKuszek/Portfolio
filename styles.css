@@ -217,9 +217,13 @@ section{
 .service-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(240px, auto));
-    grid-gap: 1.5rem;
+    grid-gap: 2.5rem;
     margin-top: 4rem;
+    margin-left: 40px;
+    margin-right: 40px;
 }
+
+
 
 .s-box{
     display: flex;
