@@ -219,8 +219,8 @@ section{
     grid-template-columns: repeat(auto-fit, minmax(240px, auto));
     grid-gap: 2.5rem;
     margin-top: 4rem;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 35px;
+    margin-right: 35px;
 }
 
 
